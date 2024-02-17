@@ -15,8 +15,8 @@ To get started with this project, follow these steps:
 
 1. **Create a New Directory**: Create a new directory to hold the project files:
 
-   - mkdir directory name
-   - cd directory name
+   - mkdir directoryName
+   - cd directoryName
    
    ```bash
    git clone https://github.com/anujdhiman111/TodoList.git
