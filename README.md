@@ -15,11 +15,11 @@ To get started with this project, follow these steps:
 
 1. **Create a New Directory**: Create a new directory to hold the project files:
 
-   - mkdir <directory name>
-   - cd <directory name>
+   - mkdir directory name
+   - cd directory name
    
    ```bash
-   git clone <https://github.com/anujdhiman111/TodoList.git>
+   git clone https://github.com/anujdhiman111/TodoList.git
    pip install -r requirements.txt
    python manage.py migrate
    python manage.py runserver
